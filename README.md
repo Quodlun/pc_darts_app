@@ -1,2 +1,2 @@
-# pc_darts_app
-A darts app for PC.
+# PC Darts APP
+A darts scoring app for PC.
